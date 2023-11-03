@@ -1,21 +1,31 @@
-Title;Price;Stock;Amount;Allergens;Calories
-Chocolate Chip Cookies;2.99;50;100g;Wheat,Milk,Eggs;480
-Salted Pretzels;1.49;75;200g;Wheat;150
-Caramel Popcorn;3.50;40;150g;Milk;300
-Sour Gummy Worms;1.99;60;100g;;200
-Roasted Almonds;4.99;30;100g;Tree Nuts;580
-Beef Jerky;6.99;25;70g;;410
-Veggie Chips;2.50;80;150g;;220
-Rice Crackers;1.99;90;100g;;130
-Dark Chocolate Bar;3.49;70;90g;Soy,Milk;505
-Sea Salt Crisps;1.89;85;200g;;160
-Mixed Nuts;5.99;40;150g;Peanuts,Tree Nuts;840
-Fruit Leather;0.99;100;45g;;120
-Protein Bar;1.99;50;50g;Milk,Soy,Nuts;210
-Granola Mix;3.99;45;200g;Wheat,Nuts;460
-Banana Chips;2.29;65;100g;;365
-Cheese Puffs;2.49;60;150g;Milk;520
-Peanut Butter Cups;3.99;55;150g;Peanuts,Milk;580
-Wasabi Peas;1.89;70;100g;;100
-Yogurt Pretzels;3.79;40;200g;Milk,Wheat;480
-Kale Chips;4.49;50;50g;;150
+Type;Title;Price;Stock;Amount;Allergens;Calories
+Chips;Classic Potato Chips;1.99;50;200g;None;540
+Chips;BBQ Flavor Chips;2.49;35;200g;None;560
+Chips;Sour Cream and Onion Chips;2.29;40;200g;Milk;570
+Candy;Chocolate Bar;1.50;75;100g;Milk, Soy;540
+Candy;Gummy Bears;1.20;65;150g;None;520
+Candy;Caramel Chews;1.35;60;120g;Milk;510
+Beverage;Cola Soda;0.99;150;330ml;None;150
+Beverage;Lemonade;1.29;120;330ml;None;140
+Beverage;Energy Drink;1.99;80;250ml;None;110
+Chips;Salt and Vinegar Chips;2.29;30;200g;None;560
+Chips;Cheese Puffs;1.89;40;150g;Milk;530
+Chips;Pretzel Sticks;1.69;25;150g;Wheat;480
+Candy;Peppermint Gum;0.99;180;50g;None;50
+Candy;Fruit Drops;1.10;160;100g;None;390
+Candy;Liquorice Twists;1.25;90;150g;Wheat;410
+Beverage;Mineral Water;0.89;200;500ml;None;0
+Beverage;Iced Tea;1.19;110;330ml;None;100
+Beverage;Fruit Punch;1.59;95;330ml;None;160
+Chips;Jalapeno Kettle Chips;2.59;40;200g;None;580
+Chips;Sea Salt Crisps;2.19;45;150g;None;550
+Chips;Sweet Potato Chips;2.99;30;150g;None;560
+Candy;Milk Chocolate Coins;1.99;85;200g;Milk, Soy;1040
+Candy;Candy Canes;0.85;120;50g;None;220
+Candy;Toffee Bites;1.49;70;150g;Milk;630
+Beverage;Ginger Ale;1.09;135;330ml;None;120
+Beverage;Orange Soda;1.09;145;330ml;None;160
+Beverage;Root Beer;1.09;130;330ml;None;170
+Chips;Multi-grain Tortilla Chips;2.39;50;200g;None;540
+Chips;Pizza Flavored Rolls;2.19;55;150g;Milk, Wheat;560
+Chips;Honey Mustard Snack Mix;2.49;35;150g;Wheat, Soy;590
