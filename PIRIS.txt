@@ -1,0 +1,19 @@
+**Pacientų išankstinės registracijos informacinė sistema** (PIRIS) yra platforma, kuri leidžia pacientams ir gydytojams efektyviai valdyti sveikatos priežiūros paslaugas. Štai išsamus idėjos aprašymas:
+
+1. **Funkcionalumas pacientams:**
+    - **Registracija:** Pacientai gali užsiregistruoti į sistemą, pateikdami reikiamą informaciją, tokią kaip vardas, pavardė, gimimo data, el. pašto adresas ir kontaktinis telefonas.
+    - **Paieška:** Pacientai gali ieškoti gydytojų pagal specialybę, vietą, laiką ir kitus kriterijus.
+    - **Rezervacija:** Pacientai gali užsiregistruoti pas pasirinktą gydytoją per kelias minutes. Jie taip pat gali peržiūrėti savo būsimų vizitų sąrašą.
+    - **Priminimai:** Sistema siunčia priminimus apie artėjančius vizitus el. paštu arba SMS žinute.
+    - **Atsiliepimai:** Pacientai gali palikti atsiliepimus apie savo vizitus, kurie padeda kitiems pacientams priimti informuotus sprendimus.
+
+2. **Funkcionalumas gydytojams:**
+    - **Tvarkaraštis:** Gydytojai gali tvarkyti savo darbo tvarkaraštį, nurodydami laisvus laikotarpius konsultacijoms.
+    - **Pacientų duomenys:** Gydytojai gali peržiūrėti pacientų istoriją, įskaitant ankstesnius vizitus, diagnozes ir gydymo planus.
+    - **Komunikacija:** Gydytojai gali bendrauti su pacientais per sistemą, siųsdami pranešimus arba atsakydami į klausimus.
+    - **Ataskaitos:** Sistema generuoja išsamią statistiką ir ataskaitas, kurios padeda gydytojams stebėti savo veiklos efektyvumą.
+
+3. **Technologijos:**
+    - **Saugumas:** Visi duomenys yra saugomi ir tvarkomi laikantis BDAR reikalavimų. Sistema naudoja šifravimą ir kitas saugumo priemones, kad užtikrintų duomenų apsaugą.
+    - **Integracija:** Sistema gali būti integruota su kitomis sveikatos priežiūros sistemomis, tokiomis kaip elektroninės sveikatos įrašų sistemos arba laboratorijų informacinės sistemos.
+    - **Mobilioji programėlė:** PIRIS taip pat turi mobiliosios programėlės versiją, kuri leidžia pacientams ir gydytojams naudotis sistema bet kur ir bet kada.
