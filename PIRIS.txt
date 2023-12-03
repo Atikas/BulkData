@@ -17,3 +17,47 @@
     - **Saugumas:** Visi duomenys yra saugomi ir tvarkomi laikantis BDAR reikalavimų. Sistema naudoja šifravimą ir kitas saugumo priemones, kad užtikrintų duomenų apsaugą.
     - **Integracija:** Sistema gali būti integruota su kitomis sveikatos priežiūros sistemomis, tokiomis kaip elektroninės sveikatos įrašų sistemos arba laboratorijų informacinės sistemos.
     - **Mobilioji programėlė:** PIRIS taip pat turi mobiliosios programėlės versiją, kuri leidžia pacientams ir gydytojams naudotis sistema bet kur ir bet kada.
+---------------
+Štai keletas “User Story” pavyzdžių, susijusių su PACIANTU naudojant Pacientų išankstinės registracijos informacinę sistemą:
+
+1. Rezervacija:
+Kaip pacientas, aš noriu galėti užsiregistruoti pas gydytoją per sistemą, kad galėčiau tai padaryti bet kuriuo metu ir iš bet kurios vietos.
+Scenarijus: Tarkime, aš esu pacientas ir noriu užsiregistruoti pas odontologą. Aš prisijungiu prie sistemos, ieškau odontologų, kurie dirba mano mieste, ir peržiūriu jų laisvus laikotarpius. Aš pasirenku laiką, kuris man tinka, ir užsiregistruoju.
+
+2. Priminimai:
+Kaip pacientas, aš noriu gauti priminimus apie artėjančius vizitus, kad nepamirščiau apie juos.
+Scenarijus: Tarkime, aš esu pacientas ir užsiregistravau pas gydytoją kitą savaitę. Sistema automatiškai siunčia man priminimą el. paštu arba SMS žinute prieš vizitą.
+
+3. Atsiliepimai:
+Kaip pacientas, aš noriu galėti palikti atsiliepimus apie savo vizitus, kad galėčiau padėti kitiems pacientams priimti informuotus sprendimus.
+Scenarijus: Tarkime, aš esu pacientas ir ką tik lankiausi pas gydytoją. Aš prisijungiu prie sistemos ir palieku atsiliepimą apie savo vizitą, nurodau gydytojo profesionalumą, aptarnavimo kokybę ir bendrą patirtį.
+
+
+---------------
+Štai keletas “User Story” pavyzdžių, susijusių su gydytoju naudojant Pacientų išankstinės registracijos informacinę sistemą:
+
+1.Tvarkaraštis:
+Kaip gydytojas, aš noriu galėti tvarkyti savo darbo tvarkaraštį sistemoje, kad pacientai galėtų matyti mano laisvus laikotarpius ir užsiregistruoti internetu.
+Scenarijus: Tarkime, aš esu gydytojas ir noriu nustatyti savo darbo laiką kitai savaitei. Aš prisijungiu prie sistemos, peržiūriu savo tvarkaraštį ir nustatau laisvus laikotarpius konsultacijoms.
+
+2.Pacientų duomenys:
+Kaip gydytojas, aš noriu galėti peržiūrėti pacientų istoriją sistemoje, kad galėčiau geriau suprasti jų sveikatos būklę ir teikti efektyvesnę priežiūrą.
+Scenarijus: Tarkime, aš esu gydytojas ir ruošiuosi konsultacijai su pacientu. Aš prisijungiu prie sistemos, ieškau paciento profilio ir peržiūriu jo ankstesnius vizitus, diagnozes ir gydymo planus.
+
+3.Komunikacija:
+Kaip gydytojas, aš noriu galėti bendrauti su pacientais per sistemą, kad galėčiau atsakyti į jų klausimus ir suteikti jiems reikiamą informaciją.
+Scenarijus: Tarkime, aš esu gydytojas ir gavau klausimą iš paciento apie jo būsimą vizitą. Aš prisijungiu prie sistemos, peržiūriu paciento pranešimą ir atsakau į jo klausimą.
+
+4.Ataskaitų generavimas:
+Kaip gydytojas, aš noriu galėti generuoti ataskaitas apie savo veiklą, kad galėčiau stebėti savo darbo efektyvumą ir tobulinti savo paslaugas.
+Scenarijus: Tarkime, aš esu gydytojas ir noriu sužinoti, kiek pacientų aš aptarnavau per pastarąją savaitę. Aš prisijungiu prie sistemos, pasirenku ataskaitų generavimo funkciją ir generuoju savaitinę ataskaitą. Ataskaita rodo, kiek pacientų aš aptarnavau, kiek laiko užtruko kiekvienas vizitas ir kokie buvo pacientų atsiliepimai. Aš naudoju šią informaciją, kad suprastų, kaip aš galiu tobulinti savo paslaugas.
+
+
+
+
+
+?? Surašyti Aktorius
+?? Kokie teisiniai reikalavimai?
+?? Surašyti naudotojų įvairovę (neįgalumas, etc)
+?? Kokie įrenginiai
+?? Kokios galimos integracijos 
