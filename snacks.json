@@ -1,0 +1,182 @@
+[
+    {
+        "Type": "Chips",
+        "Title": "Classic Salted Chips",
+        "Price": 1.99,
+        "Stock": 50,
+        "Amount": "150g",
+        "Allergens": "None",
+        "Calories": 450
+    },
+    {
+        "Type": "Chips",
+        "Title": "Sour Cream and Onion Chips",
+        "Price": 2.29,
+        "Stock": 40,
+        "Amount": "150g",
+        "Allergens": "Dairy",
+        "Calories": 470
+    },
+    {
+        "Type": "Chips",
+        "Title": "Barbecue Flavored Chips",
+        "Price": 2.49,
+        "Stock": 35,
+        "Amount": "150g",
+        "Allergens": "None",
+        "Calories": 460
+    },
+    {
+        "Type": "Candy",
+        "Title": "Fruit Gummies",
+        "Price": 1.50,
+        "Stock": 60,
+        "Amount": "100g",
+        "Allergens": "None",
+        "Calories": 350
+    },
+    {
+        "Type": "Candy",
+        "Title": "Chocolate Bar",
+        "Price": 1.75,
+        "Stock": 45,
+        "Amount": "80g",
+        "Allergens": "Dairy, Nuts",
+        "Calories": 420
+    },
+    {
+        "Type": "Candy",
+        "Title": "Mint Chewing Gum",
+        "Price": 0.99,
+        "Stock": 80,
+        "Amount": "10 pieces",
+        "Allergens": "None",
+        "Calories": 10
+    },
+    {
+        "Type": "Beverage",
+        "Title": "Cola Soda",
+        "Price": 1.20,
+        "Stock": 100,
+        "Amount": "330ml",
+        "Allergens": "None",
+        "Calories": 150
+    },
+    {
+        "Type": "Beverage",
+        "Title": "Lemonade",
+        "Price": 1.10,
+        "Stock": 90,
+        "Amount": "330ml",
+        "Allergens": "None",
+        "Calories": 140
+    },
+    {
+        "Type": "Beverage",
+        "Title": "Orange Juice",
+        "Price": 1.30,
+        "Stock": 70,
+        "Amount": "330ml",
+        "Allergens": "None",
+        "Calories": 120
+    },
+    {
+        "Type": "Chips",
+        "Title": "Cheese Flavored Chips",
+        "Price": 2.59,
+        "Stock": 30,
+        "Amount": "150g",
+        "Allergens": "Dairy",
+        "Calories": 480
+    },
+    {
+        "Type": "Chips",
+        "Title": "Jalapeno Chips",
+        "Price": 2.49,
+        "Stock": 45,
+        "Amount": "150g",
+        "Allergens": "None",
+        "Calories": 460
+    },
+    {
+        "Type": "Candy",
+        "Title": "Licorice Sticks",
+        "Price": 1.30,
+        "Stock": 55,
+        "Amount": "100g",
+        "Allergens": "None",
+        "Calories": 330
+    },
+    {
+        "Type": "Candy",
+        "Title": "Hard Candy Assortment",
+        "Price": 1.50,
+        "Stock": 65,
+        "Amount": "120g",
+        "Allergens": "None",
+        "Calories": 480
+    },
+    {
+        "Type": "Beverage",
+        "Title": "Iced Tea",
+        "Price": 1.25,
+        "Stock": 85,
+        "Amount": "330ml",
+        "Allergens": "None",
+        "Calories": 100
+    },
+    {
+        "Type": "Beverage",
+        "Title": "Sports Drink",
+        "Price": 1.40,
+        "Stock": 75,
+        "Amount": "500ml",
+        "Allergens": "None",
+        "Calories": 200
+    },
+    {
+        "Type": "Chips",
+        "Title": "Salt and Vinegar Chips",
+        "Price": 2.29,
+        "Stock": 50,
+        "Amount": "150g",
+        "Allergens": "None",
+        "Calories": 470
+    },
+    {
+        "Type": "Candy",
+        "Title": "Caramel Chocolates",
+        "Price": 2.00,
+        "Stock": 40,
+        "Amount": "100g",
+        "Allergens": "Dairy",
+        "Calories": 510
+    },
+    {
+        "Type": "Candy",
+        "Title": "Bubble Gum",
+        "Price": 0.50,
+        "Stock": 100,
+        "Amount": "5 pieces",
+        "Allergens": "None",
+        "Calories": 50
+    },
+    {
+        "Type": "Beverage",
+        "Title": "Energy Drink",
+        "Price": 1.80,
+        "Stock": 65,
+        "Amount": "250ml",
+        "Allergens": "None",
+        "Calories": 220
+    },
+    {
+        "Type": "Beverage",
+        "Title": "Sparkling Water",
+        "Price": 1.00,
+        "Stock": 100,
+        "Amount": "330ml",
+        "Allergens": "None",
+        "Calories": 0
+    }
+]
