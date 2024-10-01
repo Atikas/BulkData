@@ -1,0 +1,28 @@
+.display {
+    font-size: 16px;
+    padding: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #0066ff ;
+    border-radius: 10px;
+    background-color: #e6faff;
+}
+
+.btn-outline-secondary:checked {
+    background-color: green;
+    color: white;
+}
+
+.card {
+    max-width: 400px;
+    margin: auto;
+}
+
+.temperature-error {
+    color: red;
+    font-weight: bold;
+}
+
+/* .active {
+    background-color: green !important;
+    color: white;
+} */
