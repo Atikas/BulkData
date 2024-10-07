@@ -26,3 +26,18 @@
     background-color: green !important;
     color: white;
 } */
+
+
+  #fan_image {
+      transition: transform 0.5s ease-in-out;
+  }
+
+  .rotate {
+      animation: spin 2s linear infinite;
+  }
+
+  @keyframes spin {
+      100% {
+          transform: rotate(360deg);
+      }
+  }
