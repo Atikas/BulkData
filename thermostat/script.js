@@ -3,6 +3,7 @@ let current_temperature = 20;
 let mode = "Heating";
 let wifiConnected = true;
 let fan_mode = "auto";
+let senson_connection = "ok"
 
 const btn_thermostat_state = document.getElementById("btn_thermostat_state");
 const btn_wifi_state = document.getElementById("btn_wifi_state");
@@ -16,6 +17,9 @@ const fan_auto = document.getElementById("fan-auto");
 
 const wifi_state = document.getElementById("wifi_state");
 const sensor_temperature_display = document.getElementById("sensor_temperature_display");
+
+const debug_sensor_connection = document.getElementById("debug_sensor_connection");
+const sensor_disconnected_display = document.getElementById("sensor_disconnected_display");
 
 btn_temp_increase.addEventListener("click", () => {
     if (set_temperature <= -10 || set_temperature >= 40) {
@@ -105,9 +109,11 @@ function stopRotation() {
 
 
 
+
 document.addEventListener("DOMContentLoaded", () => {
     sensor_temperature_display.innerHTML = current_temperature;
     thermostat_temperature_display.innerHTML = `${mode}: ${set_temperature}`;
+    //debug_sensor_connection.innerHTML = `${senson_connection}`;
     startRotation();
 });
 

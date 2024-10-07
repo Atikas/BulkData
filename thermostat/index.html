@@ -82,6 +82,8 @@
                         <li>OFF - Wi-Fi išjungtas </li>
                     </ul>
                 </li>
+                <li>Jei prarastas ryšys su sensoriumi, ne vėliau kaip po 15s termostate turi būti išvestas pranešimas
+                </li>
                 <li>
                     Temperatūros sensoriaus ribos yra nuo -20°C iki 100°C.
                 </li>
@@ -109,6 +111,12 @@
                                 </span>
                             </div>
                             <h3><span id="thermostat_temperature_display">Heating: 22</span>°C</h3>
+                            <div class="text-start text-danger">
+                                <span>
+                                    .
+                                    <span id="sensor_disconnected_display"></span>
+                                </span>
+                            </div>
                         </div>
                     </div>
                     <div>
@@ -178,12 +186,11 @@
                         <h5>DEBUG</h5>
                     </div>
                     <div class="card-body bg-dark text-success text-start">
-                        <div>&gt; Sensor connection strength (%) - 100 + - </div>
-                        <div>&gt; Sensor battery level (%) - 100 + -</div>
-                        <div>&gt; Room temperature + -</div>
-                        <div>&gt; Sensor data - no log</div>
-                        <div>&gt; Fan vibration - no log</div>
-                        <div>&gt; Fan current - no log</div>
+                        <div>&gt; Sensor connection - ok</div>
+                        <div>&gt; Sensor battery level - 99 % </div>
+                        <div>&gt; Room temperature - 20 °C</div>
+                        <div>&gt; Fan vibration - no data</div>
+                        <div>&gt; Fan current - no data</div>
                     </div>
                 </div>
                 <!-- </div> -->
